@@ -1,0 +1,32 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Unpublished{,
+  Title                    = {There is no island repair},
+  Author                   = {Barros, Matt and Elliott, Patrick and Thoms, Gary},
+  Year                     = {under revision},
+
+  Owner                    = {Patrick},
+  Timestamp                = {2015.07.25}
+}
+
+@Inproceedings{,
+  Title                    = {VP Ellipsis and parallelism},
+  Author                   = {Elliott, Patrick and Nicolae, Andreea and Sudo, Yasu},
+  Booktitle                = {Proceedings of SALT},
+
+  Owner                    = {Patrick},
+  Timestamp                = {2015.07.25}
+}
+
+@Article{Nicolae,
+  Title                    = {Pair-list readings of conjoined singular which-questions},
+  Author                   = {Nicolae, Andreea and Elliott, Patrick and Sudo, Yasu},
+  Date                     = {2015},
+  Journaltitle             = {Snippets},
+
+  Owner                    = {Patrick},
+  Timestamp                = {2015.07.25}
+}
+
