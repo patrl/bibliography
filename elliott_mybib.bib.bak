@@ -2,7 +2,7 @@
 % Encoding: Cp1252
 
 
-@Online{bruening_linguistics_????,
+@Online{Bruening,
   Title                    = {Linguistics Commentary: Derived Nominals},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -13,7 +13,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-1,
+@Online{Brueninga,
   Title                    = {Linguistics Commentary: Wh-the-Hell: Pair-List Readings with Multiple Questions},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -24,7 +24,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-2,
+@Online{Brueningb,
   Title                    = {Linguistics Commentary: Direct-Inverse Systems are More Common than People Think: Mandarin Chinese},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -35,7 +35,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-3,
+@Online{Brueningc,
   Title                    = {Linguistics Commentary: Scope in Nominalizations},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -46,7 +46,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-4,
+@Online{Brueningd,
   Title                    = {Linguistics Commentary: {VP} Ellipsis inside Islands},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -57,7 +57,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-5,
+@Online{Brueninge,
   Title                    = {Linguistics Commentary: Is Negation a Head?},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -68,7 +68,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-6,
+@Online{Brueningf,
   Title                    = {Linguistics Commentary: Controlling Purpose Clauses},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -79,7 +79,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-7,
+@Online{Brueningg,
   Title                    = {Linguistics Commentary: Confusion about Reciprocals},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -90,7 +90,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-8,
+@Online{Brueningh,
   Title                    = {Linguistics Commentary: Passives with Do So},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -101,7 +101,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-9,
+@Online{Brueningi,
   Title                    = {Linguistics Commentary: Two-Step Tough Movement?},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -112,10 +112,20 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{center_for_history_and_new_media_zotero_????,
+@Online{CHNM,
   Title                    = {Zotero Quick Start Guide},
   Author                   = {{Center for History and New Media}},
   Url                      = {http://zotero.org/support/quick_start_guide}
+}
+
+@Phdthesis{Heim,
+  Title                    = {The semantics of definite and indefinite noun phrases},
+  Author                   = {Heim, Irene},
+  Date                     = {1982},
+  Institution              = {University of Massachussetts, Amherst},
+
+  Owner                    = {Patrick},
+  Timestamp                = {2015.08.11}
 }
 
 @Article{Srivastav,
