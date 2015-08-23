@@ -2,7 +2,48 @@
 % Encoding: Cp1252
 
 
-@Online{bruening_linguistics_????,
+@Inproceedings{Balhana,
+  Title                    = {What Does This Even Mean? Modality, Ordering, and Focus},
+  Author                   = {Balhana, Carlos},
+  Booktitle                = {Proceedings from the Annual Meeting of the Chicago Linguistic Society},
+  Date                     = {2009},
+  Pages                    = {1--11},
+  Publisher                = {Chicago Linguistic Society},
+  Url                      = {http://www.ingentaconnect.com/content/cls/pcls/2009/00000045/00000001/art00001},
+  Urldate                  = {2015-08-20},
+  Volume                   = {45},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  File                     = {0.pdf:/home/patrl/.mozilla/firefox/ufkol4iz.default/zotero/storage/MM5SF6U9/0.pdf:application/pdf},
+  Owner                    = {Patrick Elliott},
+  Shorttitle               = {What Does This Even Mean?},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Bhatt,
+  Title                    = {Locality in Correlatives},
+  Author                   = {Bhatt, Rajesh},
+  Date                     = {2003-08},
+  Journaltitle             = {Natural Language \& Linguistic Theory},
+  Doi                      = {10.1023/A:1024192606485},
+  ISSN                     = {0167-806X, 1573-0859},
+  Number                   = {3},
+  Pages                    = {485--541},
+  Url                      = {http://link.springer.com/article/10.1023/A%3A1024192606485},
+  Urldate                  = {2015-08-11},
+  Volume                   = {21},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Abstract                 = {Correlativization seems to be an intrinsicallynon-local strategy, where the Correlative clause can appeardiscontinuous from the noun phrase it modifies. I show that correlative constructions in the Modern Indo-Aryan languages neverthelessdisplay locality effects.The nature of these locality effects depends upon whether the correlativeclause involves a single relativization ('Simple') or mutiplerelativizations ('Multi-Head'). The generalization that emerges is thata Correlative clause must be merged as locally as possible to the phrasethat it modifies. Simple correlatives modify {DPs} and so they startadjoined to the {DP} that they modify and then are fronted to an {IP}-adjoinedposition. Such an approach is able to explain the hitherto unexplainedsensitivity of the correlative-modified phrase relationship to islands.Multi-Head Correlatives modify {IPs} and therefore they start adjoined to the {smallestIP} that contains the variables bound by the Multi-Head Correlative, followedby optional movement to the clause-initial position. My proposal argues that Simple Correlatives and Multi-Head Correlatives involve different derivational histories. This difference in derivationalhistory is then used to account for the many differences in their syntactic behavior. Finally, the 'Condition on Local Merge' from which this analysis follows is shown to have cross-linguistic support.},
+  File                     = {Snapshot:/home/patrl/.mozilla/firefox/ufkol4iz.default/zotero/storage/EP6DM52K/10.html:text/html},
+  Keywords                 = {Artificial Intelligence (incl. Robotics), Linguistics (general), Philosophy of Language},
+  Langid                   = {english},
+  Owner                    = {Patrick Elliott},
+  Shortjournal             = {Natural Language \& Linguistic Theory},
+  Timestamp                = {2015.08.23}
+}
+
+@Online{Bruening,
   Title                    = {Linguistics Commentary: Derived Nominals},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -13,7 +54,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-1,
+@Online{Brueninga,
   Title                    = {Linguistics Commentary: Wh-the-Hell: Pair-List Readings with Multiple Questions},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -24,7 +65,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-2,
+@Online{Brueningb,
   Title                    = {Linguistics Commentary: Direct-Inverse Systems are More Common than People Think: Mandarin Chinese},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -35,7 +76,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-3,
+@Online{Brueningc,
   Title                    = {Linguistics Commentary: Scope in Nominalizations},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -46,7 +87,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-4,
+@Online{Brueningd,
   Title                    = {Linguistics Commentary: {VP} Ellipsis inside Islands},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -57,7 +98,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-5,
+@Online{Brueninge,
   Title                    = {Linguistics Commentary: Is Negation a Head?},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -68,7 +109,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-6,
+@Online{Brueningf,
   Title                    = {Linguistics Commentary: Controlling Purpose Clauses},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -79,7 +120,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-7,
+@Online{Brueningg,
   Title                    = {Linguistics Commentary: Confusion about Reciprocals},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -90,7 +131,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-8,
+@Online{Brueningh,
   Title                    = {Linguistics Commentary: Passives with Do So},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -101,7 +142,7 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{bruening_linguistics_????-9,
+@Online{Brueningi,
   Title                    = {Linguistics Commentary: Two-Step Tough Movement?},
   Author                   = {Bruening, Benjamin},
   Date                     = {2015-08-10},
@@ -112,10 +153,259 @@
   Shorttitle               = {Linguistics Commentary}
 }
 
-@Online{center_for_history_and_new_media_zotero_????,
+@Online{CHNM,
   Title                    = {Zotero Quick Start Guide},
   Author                   = {{Center for History and New Media}},
   Url                      = {http://zotero.org/support/quick_start_guide}
+}
+
+@Article{Chung,
+  Title                    = {Sluicing (:) between structure and inference},
+  Author                   = {Chung, Sandra and Ladusaw, William and {McCloskey}, James},
+  Date                     = {2011},
+  Journaltitle             = {Representing language: Essays in honor of Judith Aissen},
+  Pages                    = {31--50},
+  Url                      = {https://escholarship.org/uc/item/0vf4s9tk.pdf#page=40},
+  Urldate                  = {2015-08-23},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  File                     = {festschrift.dvi - chung-ladusaw-mccloskey-2011.pdf:/home/patrl/.mozilla/firefox/ufkol4iz.default/zotero/storage/CN4WJPMC/chung-ladusaw-mccloskey-2011.pdf:application/pdf},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Book{Fiengo,
+  Title                    = {Indices and Identity},
+  Author                   = {Fiengo, Robert and May, Robert},
+  Date                     = {1994},
+  ISBN                     = {978-0-262-56076-4},
+  Pagetotal                = {340},
+  Publisher                = {{MIT} Press},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Abstract                 = {Under what conditions are expressions of a language the same; when are they different? Indices and Identity focuses on this question in the context of the theory of anaphora and on the role of indices in characterizing syntactic and semantic identity of expressions.Fiengo and May develop two main themes within the theory of anaphora. The first pertains to the meaning of coindexing and non-coindexing -- the correspondence between indexical relations among expressions and the valuation relation that holds among them -- while the second is the development of Dependency Theory, the theory of the relations of occurrences of indices. The novelty of Fiengo and May's approach lies with their characterization of indexical dependencies and the conditions under which structures manifest the same or different dependency.In particular, Indices and Identity emphasizes issues raised by strict and sloppy identity in ellipsis, exploring what Fiengo and May call "the eliminative puzzles of ellipsis." The significance of these puzzles is that they show the shortcomings of current theories of anaphora in ellipsis, while illustrating an application of Dependency Theory to complex cases of strict and sloppy identity.Elliptical contexts in turn lead to consideration of the embedding of the formal syntactic notions of identity arising from indices and dependencies within more general notions of structural identity. This relates to a consideration of the foundations of reconstruction, which, the authors argue, is syntactic identity up to indexical identity and vehicle change -- variation in the syntactic form of expression of arguments.The book concludes with a discussion of the relation of reconstruction, logical representation in grammar, and the application of grammatical constraints. The discussion focuses on antecedent contained deletion, and stands independently as a comprehensive study of this construction.Linguistic Inquiry Monograph No. 24},
+  Keywords                 = {Foreign Language Study / General, Language Arts \& Disciplines / Grammar \& Punctuation, Language Arts \& Disciplines / Linguistics / General},
+  Langid                   = {english},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Heim,
+  Title                    = {The semantics of definite and indefinite noun phrases},
+  Author                   = {Heim, Irene},
+  Date                     = {1982},
+  Url                      = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.1996&rep=rep1&type=pdf},
+  Urldate                  = {2015-08-11},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  File                     = {Heim Dissertation with Hyperlinks.pdf:/home/patrl/.mozilla/firefox/ufkol4iz.default/zotero/storage/DXWZ5MR4/Heim Dissertation with Hyperlinks.pdf:application/pdf},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Heima,
+  Title                    = {Artikel und definitheit},
+  Author                   = {Heim, Irene},
+  Date                     = {1991},
+  Journaltitle             = {Semantik: ein internationales Handbuch der Zeitgenössischen forschung},
+  Pages                    = {487--535},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Shortjournal             = {Semantik: ein internationales Handbuch der Zeitgenössischen forschung},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Hobbs,
+  Title                    = {Coherence and Coreference},
+  Author                   = {Hobbs, Jerry R.},
+  Date                     = {1979-01},
+  Journaltitle             = {Cognitive Science},
+  Doi                      = {10.1207/s15516709cog0301_4},
+  ISSN                     = {03640213},
+  Number                   = {1},
+  Pages                    = {67--90},
+  Url                      = {http://doi.wiley.com/10.1207/s15516709cog0301_4},
+  Urldate                  = {2015-08-23},
+  Volume                   = {3},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Langid                   = {english},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Kehler,
+  Title                    = {Cohesion and coherence},
+  Author                   = {Kehler, Andrew},
+  Date                     = {2011},
+  Journaltitle             = {Semantics: an international handbook of natural language meaning},
+  Pages                    = {1963--1987},
+  Volume                   = {2},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Shortjournal             = {Semantics: an international handbook of natural language meaning},
+  Timestamp                = {2015.08.23}
+}
+
+@Book{Kehlera,
+  Title                    = {Coherence, reference, and the theory of grammar},
+  Author                   = {Kehler, Andrew},
+  Date                     = {2002},
+  ISBN                     = {978-1-57586-215-6 978-1-57586-216-3},
+  Location                 = {Stanford, Calif},
+  Number                   = {no. 104},
+  Pagetotal                = {225},
+  Publisher                = {{CSLI} Publications},
+  Series                   = {{CSLI} lecture notes},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Keywords                 = {Cohesion (Linguistics), Discourse analysis, Grammar, Comparative and general},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Keshet,
+  Title                    = {Sloppy identity unbound},
+  Author                   = {Keshet, Ezra},
+  Date                     = {2015-04-03},
+  Journaltitle             = {Semantics and Linguistic Theory},
+  Doi                      = {10.3765/salt.v23i0.2678},
+  ISSN                     = {2163-5951},
+  Pages                    = {412},
+  Url                      = {http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/2678},
+  Urldate                  = {2015-08-23},
+  Volume                   = {23},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Incollection{Krifka,
+  Title                    = {Association with focus phrases},
+  Author                   = {Krifka, Manfred},
+  Booktitle                = {The Architecture of Focus},
+  Date                     = {2006-01-31},
+  Editor                   = {Molnár, Valéria and Winkler, Susanne},
+  ISBN                     = {978-3-11-092201-1},
+  Location                 = {Berlin, Boston},
+  Pages                    = {105--136},
+  Publisher                = {{DE} {GRUYTER}},
+  Url                      = {http://www.degruyter.com/view/books/9783110922011/9783110922011.105/9783110922011.105.xml},
+  Urldate                  = {2015-08-23},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Book{Merchant,
+  Title                    = {The syntax of silence: sluicing, islands, and the theory of ellipsis},
+  Author                   = {Merchant, Jason},
+  Date                     = {2001},
+  ISBN                     = {978-0-19-924373-0 978-0-19-924372-3},
+  Location                 = {Oxford ; New York},
+  Number                   = {1},
+  Pagetotal                = {262},
+  Publisher                = {Oxford University Press},
+  Series                   = {Oxford studies in theoretical linguistics},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Keywords                 = {Ellipsis, Extraction (Linguistics), Grammar, Comparative and general, Semantics, Syntax},
+  Owner                    = {Patrick Elliott},
+  Shorttitle               = {The syntax of silence},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Roberts,
+  Title                    = {Information structure in discourse: Towards an integrated formal theory of pragmatics},
+  Author                   = {Roberts, Craige},
+  Date                     = {2012-12-19},
+  Journaltitle             = {Semantics and Pragmatics},
+  Doi                      = {10.3765/sp.5.6},
+  ISSN                     = {1937-8912},
+  Url                      = {http://semprag.org/article/view/sp.5.6},
+  Urldate                  = {2015-08-23},
+  Volume                   = {5},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Shorttitle               = {Information structure in discourse},
+  Timestamp                = {2015.08.23}
+}
+
+@Incollection{Romero,
+  Title                    = {Correlate restriction and definiteness effect in ellipsis},
+  Author                   = {Romero, Maribel},
+  Booktitle                = {Linguistik Aktuell/Linguistics Today},
+  Date                     = {2003},
+  Editor                   = {Schwabe, Kerstin and Winkler, Susanne},
+  ISBN                     = {978-90-272-2784-3 978-1-58811-330-6 978-90-272-9691-7},
+  Location                 = {Amsterdam},
+  Pages                    = {263--300},
+  Publisher                = {John Benjamins Publishing Company},
+  Url                      = {https://benjamins.com/catalog/la.61.14rom},
+  Urldate                  = {2015-08-23},
+  Volume                   = {61},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Langid                   = {english},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Inproceedings{Rooth,
+  Title                    = {Ellipsis redundancy and reduction redundancy},
+  Author                   = {Rooth, Mats},
+  Publisher                = {Citeseer},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Rootha,
+  Title                    = {A theory of focus interpretation},
+  Author                   = {Rooth, Mats},
+  Date                     = {1992-02-01},
+  Journaltitle             = {Natural Language Semantics},
+  Doi                      = {10.1007/BF02342617},
+  ISSN                     = {0925-854X},
+  Number                   = {1},
+  Pages                    = {75--116},
+  Url                      = {http://dx.doi.org/10.1007/BF02342617},
+  Volume                   = {1},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Shortjournal             = {Nat Lang Seman},
+  Timestamp                = {2015.08.23}
+}
+
+@Article{Ross,
+  Title                    = {Guess who},
+  Author                   = {Ross, John Robert},
+  Date                     = {1969},
+  Journaltitle             = {Sluicing: Cross-Linguistic Perspectives},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Shortjournal             = {Sluicing: Cross-Linguistic Perspectives},
+  Timestamp                = {2015.08.23}
+}
+
+@Unpublished{Sauerland,
+  Title                    = {On quantifier raising in German},
+  Author                   = {Sauerland, Uli},
+  Date                     = {2001-01-01},
+  Location                 = {University of T{\textbackslash}"\{u\}bingen},
+  Url                      = {https://www.academia.edu/336204/On_Quantifier_Raising_In_German},
+
+  __markedentry            = {[Patrick Elliott:6]},
+  Owner                    = {Patrick Elliott},
+  Timestamp                = {2015.08.23}
 }
 
 @Article{Srivastav,
@@ -131,7 +421,6 @@
   Urldate                  = {2015-08-11},
   Volume                   = {9},
 
-  __markedentry            = {[Patrick:6]},
   Abstract                 = {This paper argues against the view that Hindi has a single strategy of relativization, traditionally referred to as the correlative construction, which is typologically distinct from relativization in languages like English. It is shown that Hindi, in fact, has two types of relative clauses which are syntactically and semantically distinct. Hindi embedded and right-adjoined relative clauses are generated inside {NP} and function like noun modifiers. They are similar in essential respects to restrictive relative clauses in English. Hindi left-adjoined relative clauses, on the other hand, are adjoined to {IP} at D-structure. They do not function like noun modifiers but are quantificational expressions binding variables inside their scope domain. It is suggested that left-adjoined relatives belong typologically with free relatives in English and internally-headed relatives in Quechua, since they have certain significant properties in common with these constructions.},
   File                     = {Snapshot:C\:\\Users\\Patrick\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\ae6722po.default\\zotero\\storage\\E42EPZPD\\10.html:text/html},
   Keywords                 = {Artificial Intelligence (incl. Robotics), Linguistics (general), Philosophy of Language},
