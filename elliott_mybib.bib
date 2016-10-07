@@ -1270,27 +1270,25 @@ Url = {https://patrl.github.io/assets/nasslli2016.pdf}}
   Timestamp                = {2015.08.10}
 }
 
-@Inproceedings{Elliott,
-  Title                    = {{QR} out of control},
-  Author                   = {Elliott, Patrick D. and Thoms, Gary},
-  Booktitle                = {Proceedings of the 33$^{\text{rd}}$ {W}est {C}oast {C}onference on {F}ormal {L}inguistics},
-  Date                     = {2016},
-  Publisher = {Cascadilla Proceedings Project},
-  Location = {Somerville, MA},
+@proceedings{wccfl33,
+  title = {Proceedings of the 33$^{\text{rd}}$ {W}est {C}oast {C}onference on {F}ormal {L}inguistics},
   editor = {Kim, Kyeong-min and Umbal, Pocholo and Block, Pocholo and Chan, Queenie and Cheng, Tanie and Finney, Kelli and Katz, Mara and Nickel-Thompson, Sophie and Shorten, Lisa},
-  Url                      = {http://www.lingref.com/cpp/wccfl/33/}
-}
+  location = {Somerville, MA},
+  publisher = {Cascadilla Proceedings Project},
+  url = {http://www.lingref.com/cpp/wccfl/33/},
+  date = {2016}}
+
+
+@Inproceedings{Elliott,
+  crossref = {wccfl33},
+  Title                    = {{QR} out of control},
+  Author                   = {Elliott, Patrick D. and Thoms, Gary}}
 
 @Inproceedings{FoxJohnson16,
+  crossref = {wccfl33},
   Title = {{QR} Is Restrictor Sharing},
   Author = {Fox, Danny and Johnson, Kyle},
-  Booktitle = {Proceedings of the 33$^{\text{rd}}$ {W}est {C}oast {C}onference on {F}ormal {L}inguistics},
-  Publisher = {Cascadilla Proceedings Project},
-  Location = {Somerville, MA},
-  pages = {1 - 16},
-  url = {http://www.lingref.com/cpp/wccfl/33/paper3220.pdf},
-  %editor = {Kim, Kyeong-min and Umbal, Pocholo and Block, Pocholo and Chan, Queenie and Cheng, Tanie and Finney, Kelli and Katz, Mara and Nickel-Thompson, Sophie and Shorten, Lisa},
-  Date = {2016}}
+  pages = {1 - 16}}
 
 @Inproceedings{kotek:2012,
   title = {Readings of {H}ebrew Multiple Questions},
@@ -1314,6 +1312,20 @@ pages={1105--1143},
 issn={1573-0859},
 doi={10.1007/s11049-014-9238-8},
 url={http://dx.doi.org/10.1007/s11049-014-9238-8}}
+
+@book{comorovski:1996,
+	location = {Dordrecht},
+	title = {Interrogative Phrases and the Syntax-Semantics Interface},
+	volume = {59},
+	%isbn = {978-90-481-4641-3 978-94-015-8688-7},
+	url = {http://link.springer.com/10.1007/978-94-015-8688-7},
+	series = {Studies in Linguistics and Philosophy},
+	publisher = {Springer Netherlands},
+	author = {Comorovski, Ileana},
+	editorb = {Chierchia, Gennaro and Jacobson, Pauline and Pelletier, Francis J.},
+	editorbtype = {redactor},
+	urldate = {2016-10-04},
+	date = {1996}}
 
 @inproceedings{heim1994,
   title = {Interrogative semantics and {K}arttunen's semantics for `know'},
@@ -1670,12 +1682,26 @@ url={http://dx.doi.org/10.1007/s11049-014-9238-8}}
   Year                     = 2003,
   Pages                    = {209--233},
   Url                      = {http://www.iub.edu/~ykling/Resource%20files/Publication%20pdfs/KRT.GLOWDist.pdf},
-  Urldate                  = {2015-08-31},
+  Urldate                  = {2015-08-31}}
 
-  File                     = {Microsoft Word - KRT.GLOWPaper.dist.doc - KRT.GLOWDist.pdf:/home/patrl/.mozilla/firefox/ufkol4iz.default/zotero/storage/3R9K9WUR/KRT.GLOWDist.pdf:application/pdf},
-  Owner                    = {Patrick Elliott},
-  Timestamp                = {2015.08.31}
-}
+@article{wiltschko:1997,
+  title = {{D}-linking, scrambling and superiority in {G}erman},
+  author = {Wiltschko, Martina},
+  date = {1997},
+  journal = {Groninger Arbeiten zur Germanischen Linguistik},
+  volume = {41},
+  pages = {197--142}}
+
+@inproceedings{wiltschko:1998,
+  title = {superiority in {G}erman},
+  author = {Wiltschko, Martina},
+  date = {1998},
+  booktitle = {Proceedings of the sixteenth {W}est {C}oast conference on formal linguistics},
+  editor = {Curtis, E. and Lyle, J. and Webster, G.},
+  pages = {431--445},
+  location = {Stanford, CA},
+  publisher = {CLSI Publication}}
+
 
 @phdthesis{Kotek,
   Title                    = {Composing questions},
