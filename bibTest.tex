@@ -1,0 +1,45 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[opticals,mathlf,onlytext]{MinionPro}
+\usepackage{MyriadPro}
+%% Typewriter font, scaled to match the display font.
+\usepackage[scaled=0.95]{inconsolata}
+%% Math font
+\usepackage[expansion=false]{microtype}
+
+\PassOptionsToPackage{%
+    backend=biber,
+    bibstyle=biblatex-sp-unified,
+    citestyle=sp-authoryear-comp,
+	  language=auto,
+    sorting=nyt,
+    maxcitenames=3,
+    maxbibnames=99,
+    natbib=true,
+    autocite=plain,
+    isbn=false,
+    doi=false,
+    url=false,
+    hyperref=auto,
+    bibencoding=utf8
+}{biblatex}
+\usepackage{biblatex}
+
+\addbibresource{elliott_mybib.bib}
+
+\title{Bibliography test}
+
+\author{Patrick~D. Elliott}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\nocite{*}
+
+\printbibliography
+
+\end{document}
+
