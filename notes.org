@@ -1,0 +1,31 @@
+
+* Moulton, K. (2017): Determiners on clauses
+  :PROPERTIES:
+  :Custom_ID: moulton2017
+  :END:
+ 
+- Moulton points out that one of the advantages of the predicative theory of CP denotations is that it doesn't necessarily predict that a clause that appears with a determiner should be /factive/, only that it should be /presupposition/. This seems like good new for Greek (Moulton cites Roussou here).
+- The stuff on late merge is probably useful background in my thesis subsection arguing that clauses are predicate modifiers.
+
+
+
+* Kratzer, A. (2004): Telicity and the meaning of objective case
+  :PROPERTIES:
+  :Custom_ID: kratzer2004
+  :END:
+
+ - This might be useful in explaining why internal arguments and content providers can't co-occur.
+
+* Rawlins, K., & White, A. S. (2017): Question agnosticism and change of state
+  :PROPERTIES:
+  :Custom_ID: rawlinsWhite2017
+  :END:
+
+- This might provide some clue about the exceptional behaviour of "prove" and the like. 
+
+* Hartman, J. (2012): Varieties of clausal complementation
+  :PROPERTIES:
+  :Custom_ID: hartman2012
+  :END:
+
+- the T/SM restriction is reminiscent of co-occurence restrictions with explain.
