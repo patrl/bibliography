@@ -7,8 +7,6 @@
 - Moulton points out that one of the advantages of the predicative theory of CP denotations is that it doesn't necessarily predict that a clause that appears with a determiner should be /factive/, only that it should be /presupposition/. This seems like good new for Greek (Moulton cites Roussou here).
 - The stuff on late merge is probably useful background in my thesis subsection arguing that clauses are predicate modifiers.
 
-
-
 * Kratzer, A. (2004): Telicity and the meaning of objective case
   :PROPERTIES:
   :Custom_ID: kratzer2004
