@@ -27,3 +27,44 @@
   :END:
 
 - the T/SM restriction is reminiscent of co-occurence restrictions with explain.
+
+* Neufeld, E. (2017): A study into the syntactic properties of \textitgen
+  :PROPERTIES:
+  :Custom_ID: neufeld2017
+  :END:
+
+ - central theoretical claim :: /gen/ is a quantificational determiner rather than an adverb of quantification.
+ 
+ - Every man is s.t. he doesn't cry (admitting some exceptions). This is what we expect for the wide scope reading of the /gen/ operator above negation. What if /gen/ takes scope below negation? Then we predict it to mean - it's not the case that every man cries, admitting exceptions. Should this be true if all men cry?
+
+ - One obvious problem is the possibility that /gen/ carries a presuppositional component which projects out of negation.
+  
+ - Obvious objection: Q-adverbs can be merged in different places on the clausal spine.
+
+ - Another empirical avenue to check out -- inverse linking.
+
+* Kratzer, A. (2012): Modals and conditionals
+  :PROPERTIES:
+  :Custom_ID: kratzer_modals_2012
+  :END:
+
+** Chapter 6: Facts: particulars or information units?
+
+   Why is it not sufficient to give a semantics for /know/ in terms of true propositions? Why is this not sufficient for counterfactuals? What are facts, if not true propositions?
+   
+   Bertrand Russell gives the earliest Gettier example that Angelika is aware of. The payoff of Gettier examples seems to be that beliefs can be "accidentally" true (in some way to be made precise), and this is not sufficient to characterise knowledge.
+   
+   This stuff really reminds me of Fine's notion of truthmakers.
+
+   Also, Yablo's work on aboutness.
+
+* Walter~Smith, R., & Kobayashi, R. (2017): Alternating conj/disjunctions
+  :PROPERTIES:
+  :Custom_ID: smithKobayashi2017
+  :END:
+ 
+- What is meant exactly by "non-exhaustive conjunctions"
+
+- It basically sounds as if these elements are polarity items. Sounds like they act like free choice expressions elsewhere. 
+
+
