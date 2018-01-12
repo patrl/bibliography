@@ -39,8 +39,11 @@
   publisher = {{L}inguistic {S}ociety of {A}merica}}
 
 @XData{umassDiss,
-	institution = {University of Massachusetts - Amherst},
+  xdata = {umass},
   type = {phdthesis}}
+
+@XData{umass,
+  institution = {{U}niversity of {M}assachusetts - {A}mherst}}
 
 @XData{l&pStudies,
   series = {Studies in Linguistics and Philosophy},
@@ -694,16 +697,20 @@
 }
 
 @incollection{portner_logical_1983,
-  title =        {The Logical Analysis of Plurals and Mass Terms: A
-                  Lattice-Theoretic Approach},
-  shorttitle =   {The Logical Analysis of Plurals and Mass Terms},
+  title =        {The Logical Analysis of Plurals and Mass Terms},
+  subtitle = {A Lattice-Theoretic Approach},
   pages =        {127-147},
-  booktitle =    {Formal Semantics - the Essential Readings},
-  publisher =    {Blackwell},
   author =       {Link, Godehard},
-  editor =       {Portner, P. and Partee, B. H.},
+  crossref = {formalSemantics},
   date =         1983
 }
+
+@collection{formalSemantics,
+  title = {Formal semantics},
+  subtitle = {The essential readings},
+  date = {2002},
+  editor = {Portner, Paul and Partee, Barbara~H.},
+  publisher = {Blackwell}}
 
 @incollection{partee1986,
   title =        {Noun-phrase interpretation and type-shifting principles},
@@ -5436,3 +5443,19 @@ eprint = {https://doi.org/10.1162/COLI_a_00262}}
   number = 122,
   pages = {529-553},
   date = {2012}}
+
+@unpublished{farudi2007,
+  title = {An antisymmetric approach to {P}ersian clausal complements},
+  author = {Farudi, Annahita},
+  date = {2007},
+  xdata = {ms},
+  location = {{U}niversity of {M}assachussetts - {A}mherst}}
+
+
+@incollection{kamp1981,
+	title = {A Theory of Truth and Semantic Representation},
+	pages = {189--222},
+	author = {Kamp, Hans},
+	date = {1981},
+  crossref = {formalSemantics}
+}
