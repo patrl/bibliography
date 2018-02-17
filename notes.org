@@ -20,14 +20,14 @@
   :END:
 
 - This might provide some clue about the exceptional behaviour of "prove" and the like. 
-
+  
 * Hartman, J. (2012): Varieties of clausal complementation
   :PROPERTIES:
   :Custom_ID: hartman2012
   :END:
 
 - the T/SM restriction is reminiscent of co-occurence restrictions with explain.
-
+  
 * Neufeld, E. (2017): A study into the syntactic properties of \textitgen
   :PROPERTIES:
   :Custom_ID: neufeld2017
@@ -68,4 +68,10 @@
 - It basically sounds as if these elements are polarity items. Sounds like they act like free choice expressions elsewhere. 
 
 
+
+
+* Zweig, E. (2009): Number-neutral bare plurals and the multiplicity implicature
+  :PROPERTIES:
+  :Custom_ID: zweig_number-neutral_2009
+  :END:
 
