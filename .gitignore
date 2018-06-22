@@ -14,4 +14,4 @@
 *.fdb_latexmk
 *.fls
 *.pdf
-/.auctex_auto/*
+.auctex_auto/
