@@ -68,6 +68,8 @@
     "kratzer2004"
     "pesetsky_tense_2004"
     "rawlinsWhite2017"
+    "sub22"
+    "fox-sub22"
     "kratzer2013"
     "elliott_workshop"
     "kratzer2014"
@@ -648,6 +650,18 @@
     "deGroote2006"
     "mcbridePaterson2008"
     "shan2002monads"
-    "asudehGiorgolo2016"))
+    "asudehGiorgolo2016"
+    "inquisitiveSemantics"
+    "bekki2014"
+    "lacl8"
+    "bylinina_zero_2018"
+    "pasternak2018"
+    "chierchia1993"
+    "kennedy2015"
+    "theiler2014"
+    "beck1996"
+    "katzir2014"
+    "krifka2001"
+    "frey1989"))
  :bibtex)
 
